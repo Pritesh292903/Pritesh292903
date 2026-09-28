@@ -1,94 +1,89 @@
 # 👋 Hi, I'm Pritesh Bharadwa
 
-### Flutter Developer | Problem Solver | Computer Engineering Student
+### 🚀 Flutter Developer | Problem Solver | Computer Engineering Student
 
-<p align="left">
-  <img src="profile-photo.jpg" alt="Pritesh Bharadwa" width="150" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=456276&center=true&vCenter=true&width=600&lines=Flutter+Developer;Computer+Engineering+Student;Problem+Solver;Building+Practical+Applications" alt="Typing SVG" />
 </p>
-
-> **Building simple, practical applications and learning something new with every project.**
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Pritesh Bharadwa**, a Computer Engineering student at **RK University**, currently focused on becoming a **Flutter Developer**.
-
-I enjoy turning ideas into simple and useful applications, solving problems through code, and continuously improving my development skills.
-
-* 🎓 B.Tech Computer Engineering — RK University
-* 📅 Expected Graduation: 2028
-* 📱 Focused on Flutter & Dart
-* 🐍 Learning Python & Django
-* 🌐 Exploring PHP & Web Development
-* 🔧 Interested in building practical applications
-* 💡 Simple • Practical • Problem-Solving
+* 🎓 B.Tech Computer Engineering Student at **RK University**
+* 📱 Currently focusing on **Flutter & Dart**
+* 💻 Interested in building practical and user-friendly applications
+* 🌱 Currently improving my development and problem-solving skills
+* 🔧 I enjoy learning new technologies by building projects
+* 📍 India
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Mobile Development
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,django,php,mysql,git,github,html,css,bootstrap" />
 </p>
 
-### Backend & Web
+### Main Focus
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+**Flutter • Dart • UI Development • Problem Solving**
 
-### Tools
+### Also Working With
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Python • Django • PHP • MySQL • HTML • CSS • Bootstrap • Git & GitHub**
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Projects
 
-* 📱 Building Flutter applications
-* 🧩 Improving my Dart and Flutter skills
-* 🌐 Exploring backend development with Python & Django
-* 💻 Creating practical projects for my developer portfolio
-* 📚 Learning through real-world projects
+### 💼 HireHub
+
+A job portal project designed for connecting job seekers and employers.
+
+**Technology:** Flutter / .NET
+
+### 🏠 RENTIFY
+
+A rental property platform connecting property owners and tenants.
+
+**Technology:** Django • Python • HTML • CSS • Bootstrap • MySQL
+
+### 🎓 College Clubs & Events Management
+
+A role-based college management system for handling clubs, faculty, events and requests.
+
+**Technology:** PHP • MySQL • Bootstrap
 
 ---
 
-## 📈 GitHub Activity
-
-I believe consistency matters more than numbers.
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritesh292903&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pritesh292903&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritesh292903&layout=compact&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🎯 My Goal
+## 🔥 GitHub Streak
 
-> **To become a skilled Flutter Developer who builds simple, reliable and useful applications.**
-
-I'm currently learning, building, experimenting, and improving one project at a time.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pritesh292903&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://github.com/Pritesh292903">
-    <img src="https://img.shields.io/badge/GitHub-Pritesh292903-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-456276?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Build. Learn. Solve. Repeat.”</i>
+  ⭐ Thanks for visiting my profile!
 </p>
