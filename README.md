@@ -1,149 +1,278 @@
-<h1 align="center">Hi 👋, I'm Pritesh Bharadwa</h1>
+<div align="center">
 
-<h3 align="center">
-  Flutter Developer • Problem Solver • Computer Engineering Student
-</h3>
+# 👋 Hey, I'm **Pritesh Bharadwa**
 
-<p align="center">
-  <a href="https://github.com/Pritesh292903">
-    <img src="https://komarev.com/ghpvc/?username=Pritesh292903&label=Profile%20Views&color=456276&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Pritesh292903?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pritesh292903?label=Followers&style=flat&color=456276" alt="GitHub Followers"/>
-  </a>
-</p>
+### `Flutter Developer` · `Problem Solver` · `Computer Engineering Student`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=456276&center=true&vCenter=true&width=650&lines=Flutter+Developer;Dart+%7C+Python+%7C+Django;Building+Practical+Applications;Learning+%26+Growing+Every+Day" alt="Typing SVG"/>
-</p>
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=456276&center=true&vCenter=true&width=700&lines=Building+Ideas+into+Applications;Flutter+%7C+Dart+%7C+Python+%7C+Django;Learning+by+Building+Real+Projects;Code.+Create.+Improve." alt="Typing Animation"/>
 
-## 👨‍💻 About Me
+<br>
 
-I'm **Pritesh Bharadwa**, a Computer Engineering student at **RK University** with a strong interest in **Flutter application development** and software development.
+<a href="https://github.com/Pritesh292903">
+<img src="https://img.shields.io/badge/GitHub-Pritesh292903-456276?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-I enjoy turning ideas into practical applications and learning through real-world projects. My current focus is building clean, user-friendly applications while improving my programming and problem-solving skills.
-
-* 🎓 **B.Tech Computer Engineering** — RK University
-* 📱 **Primary Focus:** Flutter & Dart
-* 💻 **Interested In:** Mobile & Web Application Development
-* 🌱 **Currently Learning:** Advanced Flutter & Application Development
-* 🧩 **Approach:** Learn → Build → Improve
-* 📍 **India**
+</div>
 
 ---
 
-## 🧰 Tech Stack
+<div align="center">
 
-### Mobile Development
+### `ABOUT ME`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+</div>
 
-### Programming & Backend
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,php,mysql" />
-</p>
+### 👨‍💻 Who Am I?
 
-### Web Development
+I'm **Pritesh Bharadwa**, a Computer Engineering student who enjoys turning ideas into **practical software applications**.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-</p>
+My main focus is **Flutter development**, while I also work with Python, Django, PHP and web technologies.
 
-### Tools & Version Control
+I believe the best way to learn development is:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-</p>
+> **Learn → Build → Break → Fix → Improve**
 
----
+I'm currently focused on improving my development skills by building real-world projects.
 
-## 🚀 Featured Projects
+</td>
 
-### 💼 HireHub — Job Portal
+<td width="45%" valign="top">
 
-A career and placement-focused job portal connecting **job seekers and employers** with separate panels and role-based functionality.
+### ⚡ Quick Info
 
-**Tech:** Flutter • .NET
+🎓 **Education**
+B.Tech Computer Engineering
 
----
+🏫 **University**
+RK University
 
-### 🏠 RENTIFY — Rental Property Platform
+📱 **Main Focus**
+Flutter & Dart
 
-A rental platform designed to connect **property owners and tenants**, with property listings, searching, authentication, rental requests and management features.
+💻 **Development**
+Mobile + Web
 
-**Tech:** Python • Django • MySQL • HTML • CSS • Bootstrap
+🌱 **Currently Learning**
+Advanced Flutter
 
----
+📍 **Based In**
+India
 
-### 🎓 College Clubs & Events Management
-
-A role-based college management system for managing **clubs, faculty, events and requests**, with separate functionality for different users.
-
-**Tech:** PHP • MySQL • Bootstrap
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Current Focus
+<div align="center">
+
+## 🧠 My Developer Stack
+
+### 📱 Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+
+### 🖥️ Backend & Programming
+
+<img src="https://skillicons.dev/icons?i=python,django,php,mysql"/>
+
+### 🌐 Web
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Things I'm Building
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="33%" valign="top">
+
+### 💼 HireHub
+
+**Job Portal**
+
+A career and placement platform connecting job seekers and employers.
+
+**Built With**
+
+`Flutter`
+`.NET`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🏠 RENTIFY
+
+**Rental Platform**
+
+A property rental platform connecting owners and tenants.
+
+**Built With**
+
+`Python`
+`Django`
+`MySQL`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎓 Club Management
+
+**College Platform**
+
+A role-based system for managing clubs, faculty, events and requests.
+
+**Built With**
+
+`PHP`
+`MySQL`
+`Bootstrap`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎯 What I'm Focused On
+
+</div>
 
 ```text
-Flutter & Dart
-      ↓
-UI / UX Development
-      ↓
-Application Development
-      ↓
-Problem Solving
-      ↓
-Building Real Projects
+┌──────────────────────────────────────────────┐
+│                                              │
+│       📱 Flutter Application Development     │
+│                     ↓                        │
+│              🎨 Clean UI / UX                │
+│                     ↓                        │
+│            🧩 Practical Features             │
+│                     ↓                        │
+│             🧠 Problem Solving               │
+│                     ↓                        │
+│              🚀 Real Projects                │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
-I'm currently focusing on improving my **Flutter development skills** and building applications that are simple, practical and easy to use.
+---
+
+<div align="center">
+
+## 💡 My Development Philosophy
+
+### **"Don't just learn the technology — build something with it."**
+
+<br>
+
+|   I Learn   |     I Build     |      I Improve     |
+| :---------: | :-------------: | :----------------: |
+| 📚 Concepts |   🛠️ Projects  |      🔧 Skills     |
+|   💻 Code   | 🚀 Applications | 🧠 Problem Solving |
+|    🎨 UI    |  📱 Experiences |   📈 Development   |
+
+</div>
 
 ---
 
-## 📊 GitHub Activity
+<div align="center">
+
+## 📊 GitHub Overview
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pritesh292903&show_icons=true&hide_border=true&rank_icon=github&title_color=456276&icon_color=456276&text_color=444653&bg_color=FFF9EE" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritesh292903&layout=compact&hide_border=true&title_color=456276&text_color=444653&bg_color=FFF9EE" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Pritesh292903&hide_border=true&background=FFF9EE&ring=456276&fire=456276&currStreakLabel=456276&sideLabels=456276&dates=444653"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritesh292903&bg_color=FFF9EE&color=456276&line=456276&point=444653&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧩 Currently Exploring
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pritesh292903&show_icons=true&hide_border=true&rank_icon=github&title_color=456276&icon_color=456276" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritesh292903&layout=compact&hide_border=true&title_color=456276" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pritesh292903&hide_border=true&ring=456276&fire=456276&currStreakLabel=456276" />
+`Flutter`   `Dart`   `REST APIs`   `Firebase`   `UI/UX`   `Problem Solving`
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritesh292903&bg_color=ffffff&color=456276&line=456276&point=456276&area=true&hide_border=true" width="95%"/>
-</p>
+## 🌱 My Goal
+
+### Build applications that are **simple to use, useful in real life, and enjoyable to experience.**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=456276&center=true&vCenter=true&width=600&lines=Keep+Learning.;Keep+Building.;Keep+Improving." alt="Developer Mindset"/>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/Pritesh292903">
-    <img src="https://img.shields.io/badge/GitHub-456276?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-456276?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<br>
 
----
+<a href="https://github.com/Pritesh292903">
+<img src="https://img.shields.io/badge/GitHub-456276?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
-  <b>Building. Learning. Improving. 🚀</b>
-</p>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-456276?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  Thanks for visiting my profile!
-</p>
+<br><br>
+
+### ⭐ If you find my projects interesting, feel free to explore them!
+
+<br>
+
+**Thanks for visiting my profile! 👋**
+
+</div>
